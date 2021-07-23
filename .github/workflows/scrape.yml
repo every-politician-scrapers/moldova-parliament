@@ -18,15 +18,15 @@ jobs:
     - name: Scrape official site
       run: bundle exec ruby bin/scraper/official.rb | tee data/official.csv
     - name: Get current wikidata list
-      run: bundle exec ruby bin/scraper/wikidata.rb | tee data/wikidata.csv
+      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
-    - name: Commit and push if it changed
+    - name: Commit and push changed data
       run: |-
-        timestamp=$(date -u)
-        echo $timestamp > data/.lastrun
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add data
+        find . -size 0 -exec git checkout {} \;
+        timestamp=$(date -u)
         git commit -m "Update data: ${timestamp}" || exit 0
         git push
