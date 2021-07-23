@@ -38,7 +38,17 @@ class Legislature
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      noko.css('#dnn_ctr476_ModuleContent').xpath('.//tr[td[2]]').map { |mp| fragment(mp => Member).to_h }
+      member_list.sort_by { |member| member[:id].to_s.to_i }
+    end
+
+    private
+
+    def member_container
+      noko.css('#dnn_ctr476_ModuleContent').xpath('.//tr[td[2]]')
+    end
+
+    def member_list
+      member_container.map { |member| fragment(member => Member).to_h }
     end
   end
 end
