@@ -7,7 +7,7 @@ query = <<SPARQL
   SELECT (STRAFTER(STR(?member), STR(wd:)) AS ?item) ?name
   WHERE {
     ?member p:P39 ?ps .
-    ?ps ps:P39 wd:Q18390049 ; pq:P2937 wd:Q65216039 .
+    ?ps ps:P39 wd:Q18390049 ; pq:P2937 wd:Q107651615 .
     FILTER NOT EXISTS { ?ps pq:P582 ?end }
 
     OPTIONAL { ?ps prov:wasDerivedFrom/pr:P1810 ?sourceName }
