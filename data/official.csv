@@ -1,21 +1,9 @@
 id,name,faction_id,faction
-16,Angel Agache,19,"Grupul parlamentar ""PRO MOLDOVA"""
 23,Dumitru Diacov,9,Fracțiunea Partidului Democrat din Moldova
-35,Igor Vremea,9,Fracțiunea Partidului Democrat din Moldova
-66,Oleg Sîrbu,19,"Grupul parlamentar ""PRO MOLDOVA"""
-99,Violeta Ivanov,15,Fracțiunea Partidului ȘOR
-103,Vladimir Vitiuc,15,Fracțiunea Partidului ȘOR
-106,Zinaida Greceanîi,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-304,Andrian Candu,19,"Grupul parlamentar ""PRO MOLDOVA"""
-305,Maria Ciobanu,17,Fracțiunea ACUM PLATFORMA DA
-307,Pavel Filip,9,Fracțiunea Partidului Democrat din Moldova
-323,Serghei Sîrbu,,Free fraction deputies
-343,Gheorghe Braşovschi,,Free fraction deputies
-533,Monica Babuc,9,Fracțiunea Partidului Democrat din Moldova
+103,Vladimir Vitiuc,,Free fraction deputies
 535,Vlad Batrîncea,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-536,Vasile Bîtca,19,"Grupul parlamentar ""PRO MOLDOVA"""
 537,Vasile Bolea,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-540,Lilian Carp,16,"Fracțiunea PAS, Blocul ACUM"
+540,Lilian Carp,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 546,Alla Dolinţă,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 548,Corneliu Furculiţă,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 549,Fiodor Gagauz,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
@@ -29,73 +17,104 @@ id,name,faction_id,faction
 569,Alexandr Nesterovschi,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 570,Eduard Smirnov,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 574,Bogdat Ţîrdea,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-595,Efrosinia Grețu,19,"Grupul parlamentar ""PRO MOLDOVA"""
-596,Eugeniu Nichiforciuc,,Free fraction deputies
-598,Vladimir Andronachi,,Free fraction deputies
-626,Corneliu Padnevici,,Free fraction deputies
-655,Elena Bacalu,,Free fraction deputies
 668,Adrian Lebedinschi,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-792,Eleonora Graur,,Free fraction deputies
-801,Dumitru Alaiba,16,"Fracțiunea PAS, Blocul ACUM"
-803,Reghina Apostolova,15,Fracțiunea Partidului ȘOR
-804,Vladimir Bolea,16,"Fracțiunea PAS, Blocul ACUM"
+801,Dumitru Alaiba,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+803,Reghina Apostolova,15,"Partidul politic ""ȘOR"""
+804,Vladimir Bolea,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 805,Victor Bologan,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 807,Petru Burduja,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 808,Ghenadie Buza,9,Fracțiunea Partidului Democrat din Moldova
-809,Vladimir Cebotari,19,"Grupul parlamentar ""PRO MOLDOVA"""
-810,Nicolae Ciubuc,9,Fracțiunea Partidului Democrat din Moldova
-813,Vadim Fotescu,15,Fracțiunea Partidului ȘOR
-814,Petru Frunze,16,"Fracțiunea PAS, Blocul ACUM"
-816,Doina Gherman,16,"Fracțiunea PAS, Blocul ACUM"
+813,Vadim Fotescu,15,"Partidul politic ""ȘOR"""
+814,Petru Frunze,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+816,Doina Gherman,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 817,Inga Grigoriu,17,Fracțiunea ACUM PLATFORMA DA
-818,Igor Grosu,16,"Fracțiunea PAS, Blocul ACUM"
-819,Ion Groza,16,"Fracțiunea PAS, Blocul ACUM"
-821,Petru Jardan,15,Fracțiunea Partidului ȘOR
+818,Igor Grosu,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+819,Ion Groza,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+821,Petru Jardan,15,"Partidul politic ""ȘOR"""
 822,Alexandru Jizdan,9,Fracțiunea Partidului Democrat din Moldova
 823,Alexandru Jolnaci,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 824,Ivanna Koksal,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 825,Ion Leucă,9,Fracțiunea Partidului Democrat din Moldova
-826,Sergiu Litvinenco,16,"Fracțiunea PAS, Blocul ACUM"
+826,Sergiu Litvinenco,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 827,Irina Lozovan,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 828,Stela Macari,17,Fracțiunea ACUM PLATFORMA DA
-829,Radu Marian,16,"Fracțiunea PAS, Blocul ACUM"
+829,Radu Marian,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 831,Vladimir Mizdrenco,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 832,Chiril Moțpan,17,Fracțiunea ACUM PLATFORMA DA
 833,Igor Munteanu,17,Fracțiunea ACUM PLATFORMA DA
 836,Alexandr Oleinic,18,Deputați Independenți
 837,Gheorghii Para,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-838,Dan Perciun,16,"Fracțiunea PAS, Blocul ACUM"
+838,Dan Perciun,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 839,Alla Pilipețcaia,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 840,Dinu Plîngău,17,Fracțiunea ACUM PLATFORMA DA
-841,Mihail Popșoi,16,"Fracțiunea PAS, Blocul ACUM"
 842,Adela Răileanu,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 843,Iurie Reniță,17,Fracțiunea ACUM PLATFORMA DA
 844,Grigore Repeșciuc,,Free fraction deputies
-845,Veronica Roșca,16,"Fracțiunea PAS, Blocul ACUM"
+845,Veronica Roșca,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 846,Svetlana Rotundu,9,Fracțiunea Partidului Democrat din Moldova
 847,Alexandru Slusari,17,Fracțiunea ACUM PLATFORMA DA
 848,Arina Spătaru,17,Fracțiunea ACUM PLATFORMA DA
 849,Alexandr Suhodolski,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-850,Ilan Șor,15,Fracțiunea Partidului ȘOR
+850,Ilan Șor,15,"Partidul politic ""ȘOR"""
 851,Chiril Tatarlî,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-852,Marina Tauber,15,Fracțiunea Partidului ȘOR
+852,Marina Tauber,15,"Partidul politic ""ȘOR"""
 854,Octavian Țîcu,,Free fraction deputies
-855,Denis Ulanov,15,Fracțiunea Partidului ȘOR
+855,Denis Ulanov,15,"Partidul politic ""ȘOR"""
 856,Alexandr Usatîi,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 857,Gaik Vartanean,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 858,Liviu Vovc,17,Fracțiunea ACUM PLATFORMA DA
-860,Oazu Nantoi,16,"Fracțiunea PAS, Blocul ACUM"
+860,Oazu Nantoi,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 908,Ruxanda Glavan,,Free fraction deputies
-910,Igor Himici,15,Fracțiunea Partidului ȘOR
+910,Igor Himici,,Free fraction deputies
 913,Alla Darovannaia,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
-928,Galina Sajin,16,"Fracțiunea PAS, Blocul ACUM"
+928,Galina Sajin,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
 929,Ghenadie Verdeș,19,"Grupul parlamentar ""PRO MOLDOVA"""
 930,Vasile-Andrei Năstase,17,Fracțiunea ACUM PLATFORMA DA
 931,Vitalii Evtodiev,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 935,Mihail Paciu,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 941,Radu Rebeja,9,Fracțiunea Partidului Democrat din Moldova
-944,Virgiliu Pâslariuc,16,"Fracțiunea PAS, Blocul ACUM"
+944,Virgiliu Pâslariuc,,Free fraction deputies
 955,Nichita Țurcan,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 962,Ștefan Gațcan,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 970,Nicolae Pascaru,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
 1008,Grigorii Uzun,12,Fracțiunea Partidului Socialiștilor din Republica Moldova
+1020,Marcela Adam,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1021,Gheorghe Agheorghiesei,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1022,Ion Babici,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1023,Efimia Bandalac,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1024,Adrian Băluțel,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1025,Adrian Belîi,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1026,Dumitru Budianschi,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1027,Oleg Canațui,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1028,Victoria Cazacu,,Free fraction deputies
+1029,Artemie Cătănoi,,Free fraction deputies
+1030,Andrian Cheptonar,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1031,Igor Chiriac,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1032,Ina Coșeru,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1033,Mariana Cușnir,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1034,Iulia Dascălu,,Free fraction deputies
+1035,Natalia Davidovici,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1036,Mihail Druță,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1037,Natalia Gavrilița,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1038,Maria Gonța,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1039,Vasile Grădinaru,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1040,Liliana Grosu,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1041,Gheorghe Ichim,,Free fraction deputies
+1042,Dorian Istratii,,Free fraction deputies
+1043,Vitalie Jacot,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1044,Sergiu Lazarencu,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1045,Valentina Manic,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1046,Boris Marcoci,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1047,Artur Mija,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1048,Marina Morozova,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1049,Angela Munteanu-Pogoja,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1050,Liliana Nicolaescu-Onofrei,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1051,Marcela Nistor,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1052,Larisa Novac,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1053,Maria Pancu,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1054,Iurie Păsat,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1055,Virgiliu Pâslariuc,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1056,Zinaida Popa,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1057,Ersilia Qatrawi,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1058,Ana Racu,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
+1059,Eugeniu Sinchevici,16,"Partidul politic ""Partidul Acțiune și Solidaritate"""
