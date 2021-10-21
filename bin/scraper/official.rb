@@ -3,6 +3,7 @@
 
 require 'every_politician_scraper/scraper_data'
 require 'open-uri/cached'
+require 'pry'
 
 class Legislature
   # details for an individual member
@@ -53,5 +54,5 @@ class Legislature
   end
 end
 
-url = 'http://www.parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid/87/language/en-US/Default.aspx'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file, klass: Legislature::Members).csv

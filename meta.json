@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Moldova",
+      "id": "Q217"
+    },
+    "legislature": {
+      "id": "Q230003",
+      "member": "Q18390049",
+      "term": {
+        "id": "Q107651615",
+        "start": "2021-07-26"
+      }
+    },
+    "source": {
+        "url":   "http://www.parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid/87/language/en-US/Default.aspx",
+        "title": "Members of the Parliament",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/moldova-parliament"
+}
