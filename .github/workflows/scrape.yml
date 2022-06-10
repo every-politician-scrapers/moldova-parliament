@@ -2,7 +2,7 @@ name: Compare current data
 
 on:
   schedule:
-    - cron:  '14 2 * * *'
+    - cron:  '14 23 * * *'
   workflow_dispatch: {}
 
 jobs:
@@ -32,9 +32,9 @@ jobs:
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
-        branch: data-update
+        branch: legislature-compare
         delete-branch: true
-        title: 'Current member list'
+        title: 'Compare legislature'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
